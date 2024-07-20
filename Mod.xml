@@ -1,0 +1,11 @@
+<Header>
+  <Name>TSI - Anthologia</Name>
+  <Author>TSI Crew</Author>
+  <Description>On The Stellar Islands, Pokemon are protected by the members of the Stellar Guild. These are their stories.</Description>
+  <Namespace>tsianthology</Namespace>
+  <UUID>974CD6F0-BFAE-479B-8C93-E8FABCF6C41C</UUID>
+  <Version>0.0</Version>
+  <GameVersion>0.0</GameVersion>
+  <ModType>Quest</ModType>
+  <Relationships />
+</Header>
